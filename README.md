@@ -5,7 +5,7 @@ Fork, clone, and harden a vulnerable AI prescription system inspired by the real
 ## The Incident
 
 In January 2026, an AI system called Doctronic accepted a fabricated regulatory bulletin and generated a dangerously incorrect prescription dosage recommendation. 
-No input validation. No audit trail. No safety checks. Full writeup: [`docs/incident-summary.md`](docs/incident-summary.md).Over the course of today, you'll rebuild it into something safer, one module at a time.
+No input validation. No audit trail. No safety checks. Full writeup: [`docs/incident-summary.md`](docs/incident-summary.md). Over the course of today, you'll rebuild it into something safer, one module at a time.
 
 ## What You'll Build
 
@@ -59,4 +59,4 @@ doctronic-safe-ai-starter/
 └── tests/                      # you'll add tests here
 ```
 
-By the end of today, this repo — under *your* GitHub account — is yours to keep and show off.
+By the end of today, this repo - under *your* GitHub account, is yours to keep and show off.
